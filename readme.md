@@ -6,4 +6,8 @@
     - 분석한 내용을 기반으로 나만의 chatting application을 구현한다.
     
 
-# 
+## 구현 내용
+1. 예제 프로젝트 내용을 따라가며 구현
+    - Gradle project로 생성
+    - back-end와 front-end의 구현 내용 확인
+    - 구현된 app 실행
